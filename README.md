@@ -1,0 +1,2 @@
+# penpot-token
+test
